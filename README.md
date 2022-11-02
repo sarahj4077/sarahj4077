@@ -29,12 +29,6 @@
 <div></div>
 <div></div>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-### Books I'm currently reading
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END --> 
 
 
 <p>&nbsp;</p>
