@@ -29,10 +29,17 @@
 <div></div>
 <div></div>
 
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
 
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
 <div></div>
