@@ -34,8 +34,7 @@
 <p>&nbsp;</p>
 
 ### Books I'm currently reading
-<!-- GOODREADS-LIST:START -->
-<!-- GOODREADS-LIST:END -->
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END --> 
 
 
 <p>&nbsp;</p>
