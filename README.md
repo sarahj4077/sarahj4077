@@ -23,14 +23,14 @@
 
 - 👋 Hi, I’m Sarah
 - 👀 I’m interested in ... Everything! I love to learn new things and enjoy learning for the sake of learning.
-- 🌱 I’m currently learning ... Data Analysis, Python, AWS, Linux, R
+- 🌱 I’m currently learning ... Data Analysis, Python, AWS, Linux, 
 - 💞️ I’m looking to collaborate on ... Interesting beginner Data Analysis projects I can be of value to.
 - 📫 How to reach me ... sarahbojorquez1107 at gmail.com
 <div></div>
 <div></div>
 
 <p>&nbsp;</p>
-
+### Books I'm currently reading:
 <!-- GOODREADS-LIST:START --><!-- GOODREADS-LIST:END -->
 
 <p>&nbsp;</p>
