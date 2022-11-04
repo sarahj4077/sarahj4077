@@ -29,7 +29,9 @@
 <div></div>
 <div></div>
 
+<p>&nbsp;</p>
 
+<!-- GOODREADS-LIST:START --><!-- GOODREADS-LIST:END -->
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
